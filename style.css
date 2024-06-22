@@ -1,3 +1,7 @@
 bg-flag {
     position: absolute;
 }
+
+a {
+    underline: none;
+}
